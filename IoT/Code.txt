@@ -1,0 +1,8 @@
+thingSpeakWrite(1485270,out.PV_V.Data(end,:),'Writekey','JV81SSAPPKJ7AQA9',"Fields",1)
+thingSpeakWrite(1485270,getdatasamples(out.PV_P,[2000]),'Writekey','JV81SSAPPKJ7AQA9',"Fields",2)
+thingSpeakWrite(1485270,out.W_V.Data(end,:),'Writekey','JV81SSAPPKJ7AQA9',"Fields",3)
+thingSpeakWrite(1485270,getdatasamples(out.W_P,[2000]),'Writekey','JV81SSAPPKJ7AQA9',"Fields",4)
+thingSpeakWrite(1485270,getdatasamples(out.G_P,[2000]),'Writekey','JV81SSAPPKJ7AQA9',"Fields",6)
+thingSpeakWrite(1485270,out.G_V.Data(end,:),'Writekey','JV81SSAPPKJ7AQA9',"Fields",5)
+thingSpeakWrite(1485270,out.PV_F.Data(end,:),'Writekey','JV81SSAPPKJ7AQA9',"Fields",7)
+thingSpeakWrite(1485270,out.W_F.Data(end,:),'Writekey','JV81SSAPPKJ7AQA9',"Fields",8)

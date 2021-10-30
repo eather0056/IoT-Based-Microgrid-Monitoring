@@ -1,0 +1,2 @@
+https://www.mathworks.com/help/physmod/sps/ug/wind-farm-synchronous-generator-and-full-scale-converter-type-4-detailed-model.html;jsessionid=089713641bf44750b2670e84beac
+https://www.mathworks.com/help/physmod/sps/ug/emergency-diesel-generator-and-asynchronous-motor.html;jsessionid=0ed1e92d49f25fd46da82efc02e2
